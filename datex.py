@@ -18,7 +18,7 @@ st.set_page_config(page_title= "Presidencial 2021", layout="wide")
  #VOTOS_P1  es PERU LIBRE     
  #VOTOS_P1  es FUERZA POPULAR
  
-st.title('ELECCIÓN PRESIDENCIAL 2021 - Segunda vuelta')
+st.title('ELECCIÓN PRESIDENCIAL 2021 - Resultados 2V -1V')
 st.markdown("""
              ** Data source:** [Oficina Nacional de Procesos Electorales (ONPE)-Datos Abiertos](https://www.datosabiertos.gob.pe/dataset/resultados-por-mesa-de-las-elecciones-presidenciales-2021-segunda-vuelta-oficina-nacional-de")   
              ** Fecha de Descarga :** 2021-06-22 
